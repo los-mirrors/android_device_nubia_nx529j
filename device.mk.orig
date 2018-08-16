@@ -140,7 +140,11 @@ PRODUCT_PACKAGES += \
 
 # Fingerprint
 PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.1-service.nubia_nx529j
+<<<<<<< HEAD
+    android.hardware.biometrics.fingerprint@2.0-service.nubia_nx529j
+=======
+    android.hardware.biometrics.fingerprint@2.1-service.nubia_nx569j
+>>>>>>> 57217d0... nx569j: Update biometrics for pie update
 
 # Gatekeeper HAL
 PRODUCT_PACKAGES += \
