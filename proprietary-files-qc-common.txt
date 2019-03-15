@@ -356,10 +356,6 @@ vendor/lib64/librs_adreno_sha1.so
 vendor/lib64/libscale.so
 vendor/lib64/libsd_sdk_display.so
 
-# Graphics firmware
-etc/firmware/a530_pfp.fw
-etc/firmware/a530_pm4.fw
-
 # Graphics vulkan
 vendor/lib/hw/vulkan.msm8952.so
 vendor/lib64/hw/vulkan.msm8952.so
