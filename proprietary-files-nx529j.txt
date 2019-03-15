@@ -9,7 +9,7 @@ etc/acdbdata/MTP/MTP_Speaker_cal.acdb
 
 # Camera
 bin/mm-qcamera-daemon
-lib/hw/camera.vendor.msm8952.so
+lib/hw/camera.msm8952.so:lib/hw/camera.vendor.msm8952.so
 lib/libAlgorithm.so
 lib/libBuffer.so
 lib/libbuffer_manager.so
